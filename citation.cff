@@ -16,5 +16,5 @@ version: 1.0.0
 identifiers:
   - type: doi
     value: 10.5281/zenodo.13220733
-url: "https://github.com/yourusername/yourrepository"
+url: "https://github.com/Adelved/deep-metric-learning-seismic"
 date-released: 2024-08-01
